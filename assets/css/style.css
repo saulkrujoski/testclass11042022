@@ -1,0 +1,10 @@
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    background-color: bisque;
+    padding: 20px;
+}
